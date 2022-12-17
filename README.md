@@ -53,7 +53,7 @@
     <a href="https://github.com/cheechqt/discord-redux-tailwind" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=discord-redux-tailwind&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/cheechqt/youtube-clone" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=youtube-clone&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/cheechqt/admin-dashboard" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=admin-dashboard&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
+   <a href="https://github.com/cheechqt/star-wars-app" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=star-wars-app&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 <a href="https://github.com/cheechqt?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
