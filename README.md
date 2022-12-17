@@ -39,36 +39,21 @@
  </p>
 
  <div>
- <img alt="CodeWarsStats" src="https://github.r2v.ch/codewars?user=duraxmas" />
+ <img alt="CodeWarsStats"
+ src="https://github.r2v.ch/codewars?user=duraxmas&theme=nightowl" />
 <!--  <img alt="GitHubStats" src="https://github-readme-stats.vercel.app/api?username=cheechqt&show_icons=true&theme=bear&hide_border=true&bg_color=262729" /> -->
  </div>
 
-<h3>My latest projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>🏞️ Previews</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/cheechqt/boost-eshop" target="_blank"><b>Boost e-shop</b></a></td>
-      <td><img alt="Preview" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/cheechqt/admin-dashboard" target="_blank"><b>Admin crypto
-      dashboard</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/cheechqt/discord-redux-tailwind" target="_blank"><b>Discord clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-    <td><a href="https://github.com/cheechqt/spotify-react-tailwind"
-    target="_blank"><b>Spotify
-    Clone</b></a></td>
-    </tr>
-  </tbody>
-</table>
+  <h3>📘 My latest projects</h3>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/cheechqt/boost-eshop" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=boost-eshop&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/cheechqt/spotify-react-tailwind" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=spotify-react-tailwind&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/cheechqt/discord-redux-tailwind" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=discord-redux-tailwind&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/cheechqt/youtube-clone" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=youtube-clone&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/cheechqt/admin-dashboard" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=admin-dashboard&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+
+  </p>
+
+<a href="https://github.com/cheechqt?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
