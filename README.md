@@ -47,7 +47,7 @@
   <h3>📘 My latest projects</h3>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
+  <p align="left" grid>
     <a href="https://github.com/cheechqt/boost-eshop" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=boost-eshop&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/cheechqt/spotify-react-tailwind" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=spotify-react-tailwind&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/cheechqt/discord-redux-tailwind" target="_blank"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheechqt&repo=discord-redux-tailwind&theme=nightowl&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
